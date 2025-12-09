@@ -1,4 +1,4 @@
-<h1>JFSG Tools</h1>
+<h1>JFSG Tools</h1><a href="https://github.com/jfsgtools/toolssite/" align="right">Github ↗</a>
 <p>Welkom op de toolssite van de JFSG. Hierop zijn verkorte links te vinden. Hieronder volgt een lijst van deze links.</p>
 <ul>
 <li>Bijbel met Uitleg online:
@@ -30,4 +30,4 @@
 </li>
 </ul>
 <hr>
-<p>© JFSG Tools 2025 - All Rights Reserved</p>
+<p>© JFSG Tools 2025 - All Rights Reserved | Deze site is onofficieel en niet verbonden met het bestuur/ docenten van de JFSG</p>
