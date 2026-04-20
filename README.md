@@ -28,6 +28,11 @@
   <li><a href="/zptl">https://jfsgtools.nl/zptl</a></li>
 </ol>
 </li>
+<li>Sharepoint:
+<ol>
+  <li><a href="/spt/">https://jfsgtools.nl/spt</a></li>
+</ol>
+</li>
 </ul>
 <hr>
-<p>© JFSG Tools 2025 - All Rights Reserved | Deze site is onofficieel en niet verbonden met het bestuur/ docenten van de JFSG</p>
+<p>© JFSG Tools 2026 - All Rights Reserved | Deze site is onofficieel en niet verbonden met het bestuur/ docenten van de JFSG</p>
